@@ -1,7 +1,7 @@
 
 # Страница интернет-магазина (функциональный компонент)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/xj3i4caael0qsw59?svg=true)](https://ci.appveyor.com/project/TatianaLevoshko/react-store-func)
+[![Build status](https://ci.appveyor.com/api/projects/status/aplhccdhgd6qc56t?svg=true)](https://ci.appveyor.com/project/TatianaLevoshko/react-store-func)
 
 [Результат (Сайт)](https://tatianalevoshko.github.io/react-store-func)
 
